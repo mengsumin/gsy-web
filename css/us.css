@@ -1,0 +1,25 @@
+#us{
+  padding-top: 100px;
+}
+.us-title{
+  font-size: 36px;
+    color: #333;
+    text-align: center;
+}
+
+#us .web-bottom{
+  position:fixed;
+  bottom: 0;
+}
+
+.us-content{
+  width: 70%;
+  margin: 0 auto;
+  padding: 80px 40px;
+  font-size: 18px;
+  word-break:  break-all;
+}
+.us-content .div{
+  margin-top: 40px;
+}
+
